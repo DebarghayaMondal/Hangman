@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">android</string>
+    <string name="app_name">Calc</string>
+    <string name="Hangman">Hangman</string>
+    <string name="Enter">Enter</string>
+    <string name="Hint">Enter word / guess</string>
+
 </resources>
